@@ -39,7 +39,7 @@ To run the Crypto Currency Tracker locally, follow these steps:
 3. **Run the Application:**
    ```bash
    ng serve
-4. **Open the Application:**
+4. **Open the Application:**<br>
    Navigate to http://localhost:4200/ in your browser to view the application.
 
 # Usage
