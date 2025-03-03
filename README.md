@@ -44,10 +44,10 @@ To run the Crypto Currency Tracker locally, follow these steps:
 
 # Usage
 
-**Home Page**: The home page displays a list of cryptocurrencies with their current prices, 24-hour price changes, and market caps. Users can search and filter the list using the search bar.
-**Trending Cryptocurrencies**: A marquee at the top of the home page displays trending cryptocurrencies with their price changes over the last 24 hours.
-**Currency Conversion**: Users can switch between INR and USD using the currency selector in the toolbar.
-**Coin Details**: Clicking on a cryptocurrency from the list navigates to a detailed view, where users can see more information about the coin, including historical price trends.
+**Home Page**: The home page displays a list of cryptocurrencies with their current prices, 24-hour price changes, and market caps. Users can search and filter the list using the search bar.<br>
+**Trending Cryptocurrencies**: A marquee at the top of the home page displays trending cryptocurrencies with their price changes over the last 24 hours.<br>
+**Currency Conversion**: Users can switch between INR and USD using the currency selector in the toolbar.<br>
+**Coin Details**: Clicking on a cryptocurrency from the list navigates to a detailed view, where users can see more information about the coin, including historical price trends.<br>
 
 # Contributing
 Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
