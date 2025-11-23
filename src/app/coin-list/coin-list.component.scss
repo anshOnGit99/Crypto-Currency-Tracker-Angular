@@ -29,9 +29,18 @@
 }
 
 .sub-header {
-    height: 50%;
+    height: 200px;
+    overflow: hidden;
     display: flex;
     align-items: center;
+}
+
+.marquee-container {
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+    gap: 40px; 
+    padding: 20px 0;
 }
 
 .card {
